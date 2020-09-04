@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gluten free on (C|B)ook</title>
+    <link>https://empijei.science/cooking/tags/gluten-free/</link>
+    <description>Recent content in gluten free on (C|B)ook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Sep 2020 14:51:54 +0200</lastBuildDate>
+    
+	<atom:link href="https://empijei.science/cooking/tags/gluten-free/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Baci Di Alassio</title>
+      <link>https://empijei.science/cooking/recipes/baci-di-alassio/</link>
+      <pubDate>Fri, 04 Sep 2020 14:51:54 +0200</pubDate>
+      
+      <guid>https://empijei.science/cooking/recipes/baci-di-alassio/</guid>
+      <description>They can be preserved at room temperature for roughly a week. I strongly advise against freezing.
+I think they are best after one or two days, not immediately after made.</description>
+    </item>
+    
+    <item>
+      <title>Almond cookies</title>
+      <link>https://empijei.science/cooking/recipes/almond-cookies/</link>
+      <pubDate>Thu, 03 Sep 2020 14:31:12 +0200</pubDate>
+      
+      <guid>https://empijei.science/cooking/recipes/almond-cookies/</guid>
+      <description>This is my quick and simplified version of almond bakies (which are like cookies, but are baked instead of cooked).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-@import url("https://rsms.me/inter/inter-ui.css");
+@import url("https://rsms.me/inter/inter.css");
 body, button {
   margin: 0; }
 
@@ -1082,8 +1082,7 @@ body {
   background-color: white; }
 
 a {
-  color: #007FFF;
-  text-decoration: none; }
+  color: #784f36; }
 
 a:hover {
   text-decoration: underline; }
@@ -1099,7 +1098,7 @@ hr {
 
 .button {
   color: white;
-  background-color: #007FFF;
+  background-color: #784f36;
   border-radius: 3px;
   transition-duration: .05s;
   transition-timing-function: ease-out;
@@ -1128,7 +1127,7 @@ hr {
 
 .field-light:focus {
   outline: none;
-  border-color: #007FFF;
+  border-color: #784f36;
   box-shadow: 0 0 0 2px rgba(0, 127, 255, 0.5); }
 
 .field-light:disabled {
@@ -1568,19 +1567,19 @@ img {
 .no-line-height {
   line-height: 0; }
 
-.bg-blue-tile {
-  background: #007FFF url("http://localhost:1313/cooking/assets/tile.png");
+.bg-brown-tile {
+  background: #784f36 url("http://localhost:1313/cooking/assets/tile.jpg");
   position: relative; }
 
 @media all and (min-width: 40em) {
-  .bg-blue-tile:after {
+  .bg-brown-tile:after {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
     content: " ";
-    box-shadow: inset 0 0 100px 20px #007FFF;
+    box-shadow: inset 0 0 100px 20px #784f36;
     z-index: 1;
     pointer-events: none; } }
 
@@ -1596,13 +1595,13 @@ img {
 .search input {
   border-radius: 5px;
   border: 2px solid #eee;
-  box-shadow: 0 0 14px rgba(0, 127, 255, 0.1);
+  box-shadow: 0 0 14px rgba(120, 79, 54, 0.1);
   width: 100%;
   padding: 1.5rem; }
 
 .search input:focus {
   outline: none;
-  border: 2px solid #007FFF; }
+  border: 2px solid #784f36; }
 
 .search {
   transition: .3s ease height;
@@ -1625,7 +1624,7 @@ img {
   content: "- ";
   position: absolute;
   left: 0;
-  color: #007FFF; }
+  color: #784f36; }
 
 a .image {
   transition: .2s ease all;
@@ -1717,7 +1716,7 @@ a:hover .image {
   height: 24px;
   width: 24px;
   border-radius: 5px;
-  border: 2px solid #007FFF;
+  border: 2px solid #784f36;
   transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
@@ -1727,7 +1726,7 @@ a:hover .image {
 .checkbox-label input:checked ~ .checkbox-custom {
   background-color: #fff;
   border-radius: 5px;
-  border: 2px solid #007FFF;
+  border: 2px solid #784f36;
   -webkit-transform: rotate(0deg) scale(1);
   -ms-transform: rotate(0deg) scale(1);
   transform: rotate(0deg) scale(1);
@@ -1741,7 +1740,7 @@ a:hover .image {
   height: 0px;
   width: 0px;
   border-radius: 5px;
-  border: solid #007FFF;
+  border: solid #784f36;
   border-width: 0 3px 3px 0;
   -webkit-transform: rotate(0deg) scale(0);
   -ms-transform: rotate(0deg) scale(0);
@@ -1762,14 +1761,14 @@ a:hover .image {
   top: 2px;
   width: 6px;
   height: 12px;
-  border: solid #007FFF;
+  border: solid #784f36;
   border-width: 0 3px 3px 0;
   background-color: transparent;
   border-radius: 0; }
 
 .navigation {
   width: 100%;
-  background-image: url("http://localhost:1313/cooking/assets/tile.png");
+  background-image: url("http://localhost:1313/cooking/assets/tile.jpg");
   padding: 1rem 0; }
   .navigation a, .navigation span {
     display: inline;
@@ -1857,6 +1856,6 @@ a:hover .image {
   padding: 3.5rem 0 3.5rem;
   margin-top: 0.5rem; }
   .footer a {
-    color: #007FFF; }
+    color: #784f36; }
 
 /*# sourceMappingURL=gochowdown.css.map */

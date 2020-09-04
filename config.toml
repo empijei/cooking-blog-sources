@@ -1,6 +1,6 @@
 baseURL = "https://empijei.science/cooking/"
 languageCode = "en-us"
-title = "Cooking with the flow"
+title = "(C|B)ook"
 theme = "gochowdown"
 defaultcontentlanguage= "en"
 paginate= 20
@@ -14,10 +14,10 @@ description = "Recipes made by a software engineer"
 keywords = "recipes"
 favicon_32 = "/images/favicon-32x32.png"
 favicon_16 = "/images/favicon-16x16.png"
-footercontent = ""
+footercontent = "Rob's cookbook"
 hidecredits = false 
 hidecopyright = false
-showNavTitle = false
+showNavTitle = true
 custom_css = [
   "style.css"
 ]
@@ -33,11 +33,6 @@ custom_css = [
   name = "Categories"
   weight = 2.0
   url = "/category/"
-
-  [[menu.main]]
-  name = "Cuisines"
-  weight = 3.0
-  url = "/cuisine/"
 
   [[menu.main]]
   name = "Tags"

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sweets on (C|B)ook</title>
+    <link>https://empijei.science/cooking/category/sweets/</link>
+    <description>Recent content in Sweets on (C|B)ook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Sep 2020 19:06:48 +0200</lastBuildDate>
+    
+	<atom:link href="https://empijei.science/cooking/category/sweets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crema Pasticcera [~Custard]</title>
+      <link>https://empijei.science/cooking/recipes/crema-pasticcera/</link>
+      <pubDate>Fri, 04 Sep 2020 19:06:48 +0200</pubDate>
+      
+      <guid>https://empijei.science/cooking/recipes/crema-pasticcera/</guid>
+      <description>IMPORTANT NOTE Be careful when you reheat the mix: it will take a while for it to change viscosity, but it will happen very quickly. If you are not quick enough to take it off the heat you might end up with scrambled eggs. If that happens you can still blend the mix but it will not have the right consistency.
+Make also sure to constantly whisk, otherwise your custard will burn or make lumps.</description>
+    </item>
+    
+    <item>
+      <title>Baci Di Alassio</title>
+      <link>https://empijei.science/cooking/recipes/baci-di-alassio/</link>
+      <pubDate>Fri, 04 Sep 2020 14:51:54 +0200</pubDate>
+      
+      <guid>https://empijei.science/cooking/recipes/baci-di-alassio/</guid>
+      <description>They can be preserved at room temperature for roughly a week. I strongly advise against freezing.
+I think they are best after one or two days, not immediately after made.</description>
+    </item>
+    
+    <item>
+      <title>Apple Pie</title>
+      <link>https://empijei.science/cooking/recipes/apple-pie/</link>
+      <pubDate>Fri, 04 Sep 2020 12:42:48 +0200</pubDate>
+      
+      <guid>https://empijei.science/cooking/recipes/apple-pie/</guid>
+      <description>This is one of my all-time favorite cakes, good for all seasons and both for breakfast and dessert.</description>
+    </item>
+    
+    <item>
+      <title>Almond cookies</title>
+      <link>https://empijei.science/cooking/recipes/almond-cookies/</link>
+      <pubDate>Thu, 03 Sep 2020 14:31:12 +0200</pubDate>
+      
+      <guid>https://empijei.science/cooking/recipes/almond-cookies/</guid>
+      <description>This is my quick and simplified version of almond bakies (which are like cookies, but are baked instead of cooked).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,15 +4,19 @@ date: 2020-09-03T11:02:31+02:00
 title:  "Pesto" 
 image: pesto.jpg
 category: Sauce
-cuisine: Italian
+cuisine: Liguria 
 tags:
   - basil
   - fresh
   - vegetarian
   - vegan
-yield: 1
-prepTime: 10
+yield: 1 portion
+prepTime: 10'
 cookTime: 0
+waitTime: 5'
+
+tools:
+- Mortar and Pestle or Blender
 
 ingredients:
 - a pinch of salt
@@ -23,13 +27,16 @@ ingredients:
 - 40g extra-virgin olive oil
 
 directions:
-- take a mortar and pestle
-- put the ingredients one by one in the mortar and smash them together with the pestle in the order they are listed
-- let rest for 5/10' minutes
+- Take a **mortar and pestle**
+- Put the **ingredients** one by one in the mortar and smash them together with the pestle in the **order** they are listed
+- Let **rest for 5-10 minutes**
 ---
 
+### Preservation
 Pesto can be preserved in the fridge for a few days and can be frozen if necessary. I personally use an ice-cube mold so I can have pesto-cubes to unfreeze when needed.
 
-For a vegan alternative to the recipe replace both parmigiano and pecorino with finely ground cashew nuts.
+### Vegan
+For a **🌿vegan🌿** alternative to the recipe replace both parmigiano and pecorino with finely ground **cashew nuts**.
 
-For a faster alternative you can put all ingredients in a food processor.
+### Faster
+For a **faster** alternative you can put all ingredients in a **food processor**.
