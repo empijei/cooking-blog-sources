@@ -2,7 +2,7 @@
 layout: recipe
 date: 2020-09-03T11:26:42+02:00
 title:  "Pasta al pesto"
-image: pasta-al-pesto.png
+image: pasta-al-pesto.jpg
 category: "First Course"
 cuisine: Liguria
 tags:
