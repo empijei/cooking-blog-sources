@@ -10,11 +10,11 @@ posts = "/posts/:year/:month/:title"
 
 [params]
 author = "Roberto Clapis"
-description = "Recipes made by a software engineer"
+description = "Recipes for who cooks, not for who writes them."
 keywords = "recipes"
 favicon_32 = "/images/favicon-32x32.png"
 favicon_16 = "/images/favicon-16x16.png"
-footercontent = "Rob's cookbook"
+footercontent = "Recipes for who cooks, not for who writes them."
 hidecredits = false 
 hidecopyright = false
 showNavTitle = true
