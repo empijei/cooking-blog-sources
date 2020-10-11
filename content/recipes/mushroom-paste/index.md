@@ -7,6 +7,7 @@ category: Flavor enhancer
 cuisine: Rob
 tags:
   - umami
+  - gluten free
 yield: 0
 prepTime: 15'
 hidden: true

@@ -3,8 +3,9 @@ layout: recipe
 date: 2020-09-08T18:46:14+02:00
 title: "Swedish Chocolate Balls"
 image: swedish-chocolate-balls.jpg
+imagecredit: https://twitter.com/DenialOfLupsy
 category: Sweets
-cuisine: Swedish
+cuisine: Sweden
 tags:
   - gluten free
   - vegetarian
@@ -32,7 +33,7 @@ directions:
 - Mix the two together
 - Add the **oats** and mix
 - Roll some of the mixture between your hands to **form some balls** with a diameter of 2cm (or whatever size you prefer)
-- Roll the balls into the **desiccated coconut**
+- Roll the balls into the **coconut powder**
 - Refrigerate overnight to let the oats become softer
 ---
 

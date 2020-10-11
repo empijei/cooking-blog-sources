@@ -15,7 +15,7 @@ prepTime: 10'
 cookTime: 13'
 
 tools:
-- Oven
+- Oven (180°C)
 - Baking paper
 
 ingredients:

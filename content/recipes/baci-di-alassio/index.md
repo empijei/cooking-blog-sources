@@ -16,7 +16,7 @@ tools:
 - A vertical mixer equipped with a whisk (suggested) or an electric whisker
 - A pastry bag with a star tip (~14mm size) or a small ice-cream scoop
 - Baking paper
-- Oven
+- Oven (180°C)
 - "[OPTIONAL] a rack for sweets"
 - "[OPTIONAL] ice"
 - "[OPTIONAL] food processor"

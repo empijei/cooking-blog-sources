@@ -7,9 +7,9 @@ category: Sauce
 cuisine: Liguria 
 tags:
   - basil
-  - fresh
   - vegetarian
   - vegan
+  - gluten free
 yield: 1 portion
 prepTime: 10'
 cookTime: 0

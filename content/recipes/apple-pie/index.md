@@ -13,7 +13,7 @@ prepTime: 15'
 cookTime: 40'
 
 tools:
-- Oven
+- Oven (180°C)
 - Baking paper
 - "I strongly suggest a peeler"
 

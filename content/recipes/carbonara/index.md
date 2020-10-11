@@ -33,7 +33,8 @@ directions:
 - Immediately after (or at the same time if you are quick enough) you should **crack the egg and grate parmesan and pecorino** directly into it (add the cream to it if you are going for the cheat version)
 - Add some freshly ground **pepper**
 - When the pasta is al dente sift it with a colander or the pot lid (you don't have to perfectly drain it)
-- Put the **pasta in the pan** with the **guanciale**, **pour the egg-cheese mix on top** and **stir**
+- Put the **pasta in the pan** with the **guanciale**, turn the heat back on
+- When the pan is hot take off the heat, **pour the egg-cheese mix on top** and **stir**
 - If you don't want to have raw eggs you can now re-heat the mix and check with a thermometer that the temperature is above 65°C everywhere (or take it off immediately after you see the eggs start coagulate)
 - Serve with one last bit of **freshly ground pepper**
 ---

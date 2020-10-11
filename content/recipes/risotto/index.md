@@ -8,12 +8,13 @@ cuisine: Italian
 tags:
   - vegetarian
   - vegan
+  - gluten free
   - mushrooms
 yield: 1
 prepTime: 20
 
 ingredients:
-- 80g rice (Carnaroli or Arborio)
+- 80g rice Carnaroli (or Arborio if you can't find it)
 - 7g butter (or margarine/olive oil if you want the 🌿vegan🌿 variant)
 - grated parmesan
 - 50ml of wine (variety depends on the flavor you pick, for mushrooms we'll go with white Sauvignon or Chardonnay)
@@ -33,11 +34,12 @@ directions:
 - Add a bit of boiling water/stock, just enough to cover the rice
 - Add the stock dice (if you are not using actual stock)
 - Add the flavor (in this case mushrooms)
-- Set a timer for 15 minutes
-- Keep stirring for the entire duration (at least once every minute). Every time water is absorbed and it doesn't cover the rice anymore add some boiling water/stock.
-- When the timer expires stop adding water and add the butter/margarine
-- Set the hob to high heat, and stir vigorously for three more minutes
-- After three minutes add the parmesan, stir and serve
+- Set a timer for 17 minutes (this depends on the rice you are using)
+- Keep stirring for the entire duration (at least once every couple of minutes in a pot, once every 5 if you use a large skillet). Every time water is absorbed and it doesn't cover the rice anymore add some boiling water/stock
+- A couple of minutes before the timer expires stop adding water
+- When the timer expires remove from the heat and add the butter/margarine and the grated parmesan
+- Stir vigorously until butter is melted and cheese is incorporated
+- Cover with a lid or a towel and let rest for a minute or two before serving
 ---
 
 Doses are per person, I suggest making it for at least two people.
