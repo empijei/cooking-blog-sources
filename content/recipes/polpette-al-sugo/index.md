@@ -37,7 +37,8 @@ directions:
 - Dice the **onion** and put it in a pan with high sides with some oil, **stir fry** until transparent
 - Add the **diced tomatoes (with their sauce), oregano and salt** to the pan and bring to a simmer on medium heat, in the meantime
 - use the ice-cream scoop or your hands to **shape the meatballs**
-- Once enough meatballs to fill the pan are shaped put them **in the sauce**, they'll need to cook for **20/25 minutes**
+- You can optionally sear the meatballs in a hot pan before starting the cooking in the sauce for extra flavor and texture.
+- Once enough meatballs to fill the pan are shaped put them **in the sauce**, they'll need to cook for **20/25 minutes**. 
 - Every now and then **delicately flip the meatballs**
 - You can use the same sauce to cook multiple batches, but I usually like to make more sauce as it becomes an amazing pasta condiment
 - Serve 3/4 meatballs with their sauce, **add fresh basil and some freshly ground pepper**
